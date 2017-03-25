@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+article, aside, footer, header, main, nav, section {
+	display: block;
+}
+
+html, body, h1, h2, h3, ul, li, a, p,
+article, aside, footer, header, main, nav, section {
+	padding: 0;
+	margin: 0;
+}
+
+footer{
+	text-align: bottom;
+}
+
+img{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+h1{
+	background-color: #a9a9a9;
+	color: white;
+	padding: 10px 20px;
+	text-align: center;
+}
+
+h2{
+	color: blue;
+	padding: 10px 20px;
+	text-align: center;
+}
+
+body {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #00b9ff;
+}
+
+nav {
+	background-color: #20416c;
+	padding: 5px;
+	margin-top: 1px;
+}
+
+li a{
+	color: white;
+	text-decoration: none;
+}
