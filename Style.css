@@ -46,7 +46,15 @@ nav {
 	margin-top: 1px;
 }
 
-li a{
+nav{
+	list-style-type: none;
+	text-align: center;
+}
+
+a{
 	color: white;
 	text-decoration: none;
+	padding: 10px 55px;
+	font-size: 20;
+	text-align: center;
 }
